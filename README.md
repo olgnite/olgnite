@@ -19,11 +19,6 @@ Languages and Tools
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=GraphQL)
 
-Services used
-=========================
-![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=WebStorm)
-![VSCODE](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=VisualStudioCode)
-
 Statistics
 =========================
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olgnite&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgnite&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
