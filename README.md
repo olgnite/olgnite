@@ -18,6 +18,7 @@ Languages and Tools
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=GraphQL)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 
 Statistics
 =========================
