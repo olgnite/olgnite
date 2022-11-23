@@ -11,7 +11,6 @@ About me
 Languages and Tools
 =========================
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript)
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=for-the-badge&logo=ReactiveX)
