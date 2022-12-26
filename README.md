@@ -13,6 +13,7 @@ Languages and Tools
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux)
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=for-the-badge&logo=ReactiveX)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
