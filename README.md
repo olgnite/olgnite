@@ -1,4 +1,4 @@
- Hello! 👋 
+ Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 =========================
 
 
@@ -8,6 +8,13 @@ About me
 - I live in Yekaterinburg
 - Frontend developer
 
+Contacts
+=========================
+
+<a href='https://t.me/olegjan900'>
+      <img src='https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white'/>
+</a>
+                                                                                        
 Languages and Tools
 =========================
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
