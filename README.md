@@ -17,7 +17,7 @@ Contacts
                                                                                         
 Languages and Tools
 =========================
-![React](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
