@@ -17,17 +17,11 @@ Contacts
                                                                                         
 Languages and Tools
 =========================
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=for-the-badge&logo=ReactiveX)
-![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=GraphQL)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+
 
 Statistics
 =========================
